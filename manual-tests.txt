@@ -39,7 +39,6 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * The version number should be displayed after "CiCo" at the bottom.
 
-
 # Module 3: Visibility of system status 
 
 ## Test steps
@@ -60,5 +59,17 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 
 ## Expected results
 * Should display "Developer" for the user name.
+
+#Module 6: Ticket 602 - Professional UI color scheme
+
+## Test steps
+1. Build and run CiCo.
+2. Observe the interface colors.
+3. Confirm the UI uses a neutral monochromatic palette.
+4. Ensure text is readable and the design appears professional.
+
+## Expected results
+* The interface uses subdued neutral colors.
+* The design appears cleaner and more professional.
 
 
